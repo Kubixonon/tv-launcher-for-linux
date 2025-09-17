@@ -27,26 +27,17 @@ Customizable Experience: Change the time display format and timezone to suit you
 ## Installation
 The TV Launcher is provided as a single, pre-compiled executable file for Linux.
 
-Download the latest release: Go to the Releases section of this repository and download the executable file for your system (e.g., tv-launcher).
+Download the latest release: Go to the Releases section of this repository and download the executable file for your system (e.g., tv-launcher-1.0-1.x86_64.rpm) and install
 
-Make it executable: Open your terminal and run the following command to give the file execute permissions:
-
-```Bash
-bash
-```
-```Bash
-
-chmod +x tv-launcher
-```
 Install the [VLC media player](https://www.videolan.org/vlc/#download)
 
-Run the application: Launch the app from your terminal:
+To run aplication please insert in terminall:
 
 ```Bash
 bash
 ```
 ```Bash
-./tv-launcher
+tv-launcher
 ```
 ## Configuration
 The launcher saves its settings to a file in your home directory, which you can edit to customize the experience or in the program. The configuration file is located at ~/.streaming_launcher_config.json.
