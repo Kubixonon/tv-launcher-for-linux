@@ -38,14 +38,14 @@ bash
 
 chmod +x tv-launcher
 ```
+Install the [VLC media player](https://www.videolan.org/vlc/#download)
+
 Run the application: Launch the app from your terminal:
 
 ```Bash
 bash
 ```
 ```Bash
-<img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/78a8b478-4be4-4850-b5f9-6d42ecff4999" />
-
 ./tv-launcher
 ```
 ## Configuration
