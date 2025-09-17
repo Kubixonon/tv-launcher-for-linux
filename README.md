@@ -82,4 +82,4 @@ If you find a bug or have a suggestion, please open an issue. All contributions 
 
 ## License
 
-This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/) License. See the [LICENSE](https://github.com/Kubixonon/tv-launcher-for-linux/blob/main/LICENSE) file for details.
