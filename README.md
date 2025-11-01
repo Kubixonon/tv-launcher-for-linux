@@ -37,7 +37,7 @@ To run aplication please insert in terminall:
 bash
 ```
 ```Bash
-tv-launcher
+sudo tv-launcher
 ```
 ## Configuration
 The launcher saves its settings to a file in your home directory, which you can edit to customize the experience or in the program. The configuration file is located at ~/.streaming_launcher_config.json.
