@@ -38,6 +38,8 @@ sudo chmod +x /usr/bin/tv-launcher
 
 Install the [VLC media player](https://www.videolan.org/vlc/#download)
 
+install python-qtpy to use the built-in update feature
+
 To run aplication please insert in terminall:
 
 ```Bash
