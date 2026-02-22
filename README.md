@@ -35,6 +35,13 @@ bash
 ```Bash
 sudo chmod +x /usr/bin/tv-launcher
 ```
+and
+```Bash
+bash
+```
+```Bash
+sudo chmod +777 /usr/bin/tv-launcher
+```
 
 Install the [VLC media player](https://www.videolan.org/vlc/#download)
 
@@ -48,6 +55,7 @@ bash
 ```Bash
 sudo tv-launcher
 ```
+Or run via apps menu.
 
 
 ## Configuration
